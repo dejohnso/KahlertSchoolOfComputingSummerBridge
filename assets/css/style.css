@@ -61,8 +61,8 @@ body {
     padding-bottom: 60px;
     background: url(../img/header.jpg) no-repeat center center;
     padding: 0;
-    -webkit-background-size: cover;
-    background-size: cover;
+    -webkit-background-size: contain;
+    background-size: contain;
     color: #fff;
     background-attachment: fixed;
 }
