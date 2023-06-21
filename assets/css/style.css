@@ -63,6 +63,8 @@ body {
     padding: 0;
     -webkit-background-size: contain;
     background-size: contain;
+    -webkit-background-position: center;
+    background-position: center;
     color: #fff;
     background-attachment: fixed;
 }
