@@ -30,7 +30,7 @@ body {
     ===================================*/
 
 .logo-custom {
-    max-height: 100px;
+    max-height: 120px;
 }
 
 #menu {
@@ -39,7 +39,7 @@ body {
     font-size: 12px;
     font-weight: 900;
     letter-spacing: 1px;
-    min-height: 100px;
+    min-height: 120px;
 }
 
 
@@ -69,7 +69,7 @@ body {
 
     .home-sec .overlay {
         background: rgba(38, 57, 88, 0.89);
-        min-height: 300px;
+        min-height: 200px;
     }
 
     .home-sec h1 {
